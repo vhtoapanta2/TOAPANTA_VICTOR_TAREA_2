@@ -17,10 +17,20 @@ Fecha de Presentación: 17 de noviembre de 2022
 
 OBJETIVO GENERAL:
 
+Analizar el comporta,miento de lo conceptos corriente, resistencia y voltaje en el campo electrico y los aplicara en ejercicios basicos con la ley de ohm
+
+Se conocera el concepto de potencia electrica y se comprobara el efecto de joule en los conductores 
 
 OBJETIVO ESPECIFICO:
 
-Comprender y Analizar los 
+• Conocer, Implemetar tablas y graficos para conoser las diferentes mediciones
+
+• Identificar las unidades de medida de la corriente, voltaje, resistencia y potencia.
+
+• Analizar e identificar cada interrogante que puede causar confuciones al momento de realizar las actividades.
+
+• Determinar los factores que limitan el aprendizaje en los temas que se habla.
+
     MARCO TEORICO
 
 ![image](https://user-images.githubusercontent.com/117923992/202293972-d8d93121-cff5-461b-8881-3589797ad1ef.png)
