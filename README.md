@@ -7,21 +7,31 @@ FUNDAMENTO DE CIRCUITOS ELECTRICOS
 
 Nombre del Estudiante: Victor Hugo Toapanta Tipantuña
 
-NRC: 10063
+NRC: 10063-10066
 
 Nombre del Docente: Ing. Darwin Omar Alulema Flores
 
-Fecha de Presentación: 12 de noviembre de 2022
+Fecha de Presentación: 17 de noviembre de 2022
 
-Objetivo general
+    OBJETIVOS
 
-Objetivo especifico
+OBJETIVO GENERAL:
 
-Marco teórico
+
+OBJETIVO ESPECIFICO:
+
+Comprender y Analizar los 
+    MARCO TEORICO
+
+![image](https://user-images.githubusercontent.com/117923992/202293972-d8d93121-cff5-461b-8881-3589797ad1ef.png)
+
+![image](https://user-images.githubusercontent.com/117923992/202294012-4faf5166-0d7e-4465-8225-23db65712c42.png)
+
+    EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+Ejercicios impares:
 
 CAPITULO 3
-
-Ejercicios impares
 
 LA RELACIÓN DE CORRIENTE, VOLTAJE Y RESISTENCIA
 
@@ -110,6 +120,8 @@ El voltaje disminuyó 4 V
 
 ![image](https://user-images.githubusercontent.com/117923992/202238480-61590edc-8980-4bfc-b3b1-d618b0d9d30e.png)
 
+CÁLCULO DE LA CORRIENTE
+
 15. Determine la corriente en cada caso:
 
 ![image](https://user-images.githubusercontent.com/117923992/202022798-b728504a-0d2b-4328-9877-88ba05db06d7.png)
@@ -144,6 +156,8 @@ I=24V/37.4 ohm= 6.42 A
 
 excede la capacidad del fusible
 
+CÁLCULO DE VOLTAJE
+
 23. Calcule el voltaje para cada valor de I y R:
 
 ![image](https://user-images.githubusercontent.com/117923992/202022965-9facd926-52f0-41db-a44c-6b2e267fbdd7.png)
@@ -172,6 +186,8 @@ V=56V
 V= 3A * 27ohm
 
 V=81V
+
+CÁLCULO DE LA RESISTENCIA
 
 29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 
@@ -229,13 +245,17 @@ R= 110 ohm - 15 ohm
 
 R=95 ohm
 
+INTRODUCION A LA LOCALIZACIÓN DE FALLAS
+
 37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará loca- lizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
 Tomara 5 mediciones
 
+
+
 CAPITULO 4
 
-Energía y potencia
+ENERGÍA Y POTENCIA
 
 1. Demuestre que la unidad de potencia (el watt) equivale a un volt por un ampere.
 
@@ -319,7 +339,7 @@ Joules= 0.1 x 86400 = 8640 J
 
 = 0.0018611 kWh
 
-Potencia en un circuito eléctrico
+POTENCIA EN UN CIRCUITO ELÉCTRICO
 
 17. Si una fuente de 75 V está suministrando 2 A a una carga, ¿cuál es el valor de resistencia de la carga?
 
@@ -365,13 +385,13 @@ b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante 
 
 La potencia sigue siendo igual
 
-Clasificaciones de potencia en resistores
+CLASIFICACION DE POTENCIA EN RESISTORES
 
 27. Cierto tipo de resistor viene en las siguientes clasificaciones: 3 W, 5 W, 8 W, 12 W, 20 W. Una aplicación en particular requiere de un resistor que pueda manejar aproximadamente 8 W. ¿Qué clasificación utilizaría usted para tener un margen de seguridad mínimo del 20% sobre el valor nominal? ¿Por qué?
 
 Por lo menos 12 W, para permitir un margen de seguridad del 20%
 
-Fuentes de potencia
+FUENTES DE POTENCIA
 
 29. Una carga de 50 ohmios utiliza 1 W de potencia. ¿Cuál es el voltaje de salida de la fuente de potencia?
 
@@ -392,3 +412,19 @@ Fuentes de potencia
 37. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
 0.08 kWh
+
+    VIDEO
+
+Link:
+
+    CONCLUSIONES
+    
+Con lo antes ya expuesto podemos ya saber y conocer que asi la ley de Ohm se usa para determinar la relación que existe entre tensión, corriente y resistencia en un circuito eléctrico. Para los estudiantes de electrónica, la ley de Ohm es muy importante, tambien ya conocemos que  la potencia eléctrica mide la cantidad de energía eléctrica que un receptor consume en un tiempo dado. Su unidad es el Vatio.
+
+    BIBLIOGRAFIA 
+
+Floyd, T. L. (s. f.). Principios de circuitos eléctricos (8.a ed.). http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
+R. Gouveia. "¿Qué es la ley de Ohm y cuál es su fórmula?" Toda Materia. https://www.todamateria.com/ley-de-ohm/ (accedido el 14 de noviembre de 2022).
+
+"Potencia eléctrica y energía, ¿en qué se diferencian?" Blog Atlas Energía. https://atlas-energia.com/blog/potencia-energia-diferencias/#:~:text=La%20potencia%20eléctrica%20es%20un,el%20usuario%20con%20sus%20electrodomésticos. (accedido el 14 de noviembre de 2022).
