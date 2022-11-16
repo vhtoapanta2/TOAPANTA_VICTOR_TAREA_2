@@ -88,7 +88,10 @@ R3= 2 ohmios
 
 ![image](https://user-images.githubusercontent.com/117923992/202022338-a6bcc3a3-340d-4050-aca2-cf60185515ed.png)
 
-Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+![image](https://user-images.githubusercontent.com/117923992/202222524-1776abe6-9a51-47dd-aa26-df578d452f3e.png)
+
+11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+
 R=10V/50mA
 
 R=200ohm
@@ -99,15 +102,15 @@ V= 6 V
 
 El voltaje disminuyó 4 V
 
-Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incre- mentos de 10 V, para cada uno de los siguientes valores de resistencia:
+13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incre- mentos de 10 V, para cada uno de los siguientes valores de resistencia:
 
 ![image](https://user-images.githubusercontent.com/117923992/202022470-fc8203d3-ba34-40e0-8070-a25381defd99.png)
 
 ![image](https://user-images.githubusercontent.com/117923992/202022493-b8db0779-52fc-4fdc-b58b-9196190290ec.png)
 
-![image](https://user-images.githubusercontent.com/117923992/202022607-bd8bd756-7c4f-4cd5-bdb6-1ffa84119b48.png)
+![image](https://user-images.githubusercontent.com/117923992/202238480-61590edc-8980-4bfc-b3b1-d618b0d9d30e.png)
 
-Determine la corriente en cada caso:
+15. Determine la corriente en cada caso:
 
 ![image](https://user-images.githubusercontent.com/117923992/202022798-b728504a-0d2b-4328-9877-88ba05db06d7.png)
 
@@ -127,19 +130,21 @@ d) I=30V/15Kohm
 
 I=2mA
 
-Se conecta un resistor de 10 V a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+17. Se conecta un resistor de 10 V a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
 
 R: 12V/10ohm=1.2A
 
-Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+
 R: 25V/47000 = 531.91µA
 
-Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+
 I=24V/37.4 ohm= 6.42 A
 
 excede la capacidad del fusible
 
-Calcule el voltaje para cada valor de I y R:
+23. Calcule el voltaje para cada valor de I y R:
 
 ![image](https://user-images.githubusercontent.com/117923992/202022965-9facd926-52f0-41db-a44c-6b2e267fbdd7.png)
 
@@ -163,12 +168,12 @@ e) V=0.1A * 560 ohm
 
 V=56V
 
-Se leen tres amperes de corriente a través de un resistor de 27 V conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
+25. Se leen tres amperes de corriente a través de un resistor de 27 V conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
 V= 3A * 27ohm
 
 V=81V
 
-Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
 
 ![image](https://user-images.githubusercontent.com/117923992/202023116-fef86d49-a763-4891-a5f4-d2db0479c562.png)
 
@@ -192,7 +197,7 @@ e)R=1kV/1A
 
 R=1M ohm
 
-En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
 
 ![image](https://user-images.githubusercontent.com/117923992/202023253-e639a7ba-c2f4-4a17-b7d3-df91d3ca7032.png)
 
@@ -200,7 +205,7 @@ R=120V/0.8A
 
 R=150 ohm
 
-Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de co- rriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál s el problema con el circuito?
+33. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de co- rriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál s el problema con el circuito?
 
 ![image](https://user-images.githubusercontent.com/117923992/202023332-0c1886c0-01f8-42e8-872f-c958d3637a6d.png)
 
@@ -210,11 +215,12 @@ R= 133.33 ohm
 
 R=100V / 1 A
 
-R=100 ohm
+R=100 ohmios
 
 Puede entrar en corto si se ajusta a 0 ohm
 
-Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
 R=110 V / 1 A
 
 R= 110 ohm
@@ -223,7 +229,7 @@ R= 110 ohm - 15 ohm
 
 R=95 ohm
 
-Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará loca- lizar el foco fundido si es el décimo séptimo de izquierda a derecha?
+37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará loca- lizar el foco fundido si es el décimo séptimo de izquierda a derecha?
 
 Tomara 5 mediciones
 
@@ -333,7 +339,7 @@ P= 360 W
 21. Calcule la potencia disipada por un resistor de 10 kiloohmio  que transporta 100 uA.
 Sacamos primero el Voltaje 
 
-100 uW
+P= 100 uW
 
 23. Se conecta un resistor de 56 ohmios entre las terminales de una batería de 1.5 V. ¿Cuál es la disipación de potencia en el resistor?
 
@@ -350,13 +356,14 @@ P= 0.027 x 1.5 =0.0402W
 0.0402 x 1000 =40.2 mW
 
 25. Una fuente de 12 V se conecta entre los extremos de un resistor de 10 ohmios .
-100mW=0.1 W
+
+a)¿Cuánta energía se utiliza en dos minutos?
 
 0.480 Wh
 
-(b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
+b) Si después de un minuto se desconecta el resistor, ¿es la potencia durante este primer minuto mayor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
 
-la potencia sigue siendo igual
+La potencia sigue siendo igual
 
 Clasificaciones de potencia en resistores
 
