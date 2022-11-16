@@ -19,54 +19,54 @@ Objetivo especifico
 
 Marco teórico
 
-Capitulo 1
-
-Capitulo 2
-
-Tarea capítulo 3
+CAPITULO 3
 
 Ejercicios impares
 
-La relación de corriente, voltaje y resistencia
+LA RELACIÓN DE CORRIENTE, VOLTAJE Y RESISTENCIA
 
-En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando
-(a) el voltaje se triplica
+1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando
+
+a) El voltaje se triplica
 
 Se triplica la corriente
 
-(b) el voltaje se reduce en 75%
+b) El voltaje se reduce en 75%
 
 Se reduce al 75% la corriente
 
-(c) la resistencia se duplica
+c) La resistencia se duplica
 
 Se reduce a la mitad la corriente
 
-(d) la resistencia se reduce en 35%
+d) La resistencia se reduce en 35%
 
 La corriente se incrementa en un 54%
 
-(e) el voltaje se duplica y la resistencia se reduce a la mitad
+e) El voltaje se duplica y la resistencia se reduce a la mitad
 
 Se cuadruplica la corriente
 
-(f) el voltaje y la resistencia se duplican
+f) El voltaje y la resistencia se duplican
 
 No cambia la corriente
 
-Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
-V=I*R
+3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
 
-Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+V= I x R
+
+5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 
 ![image](https://user-images.githubusercontent.com/117923992/202017805-7ffcd7a0-f2e2-4957-a503-e57c7bdd5655.png)
 
 ![image](https://user-images.githubusercontent.com/117923992/202018720-4d459443-fba4-4bd5-a414-0c6da034a9ea.png)
-![image](https://user-images.githubusercontent.com/117923992/202019583-6bc045c0-9c31-4f7e-b02c-953a4500d219.png)
 
-Como se puede ver es una linea recta y demuestra la relacion de V e I
+![image](https://user-images.githubusercontent.com/117923992/202066511-9bc16f91-3451-46cf-9f21-d8a0b6939994.png)
 
-La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1R2 y R3
+
+Como se puede ver es una linea recta y demuestra la relacion de V e I.
+
+7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1R2 y R3
 
 ![image](https://user-images.githubusercontent.com/117923992/202019873-1b313b95-e279-45df-8e59-17181384d430.png)
 
@@ -80,9 +80,9 @@ R2 =1 ohm
 
 R3=V3/I3
 
-R3= 2 ohm
+R3= 2 ohmios
 
-Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
+9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
 
 1.58k ohm
 
